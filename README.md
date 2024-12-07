@@ -20,6 +20,7 @@
 - 🔒 Estoy profundamente interesado en el área de **Ciberseguridad** y todo lo relacionado con la protección de sistemas informáticos.
 - 🌱 Estoy aprendiendo sobre diversas herramientas y tecnologías como **Linux**, **Python**, **Redes**, **Criptografía**, **Hacking ético**, y **Seguridad en la nube**.
 - 💬 Me encanta colaborar en proyectos de código abierto y compartir conocimientos con la comunidad.
+- <li>💥 You can visit <a href="https://junior-sanchez-portafolio.netlify.app/" rel="nofollow">MY WEBSITE</a>.</li>
 
 <br><br>
 
@@ -119,6 +120,7 @@
 
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://github.com/7oSkaaa/7oSkaaa/raw/output/github-contribution-grid-snake.svg?" alt="Snake Game" style="max-width: 100%;">
 <br>
 <br>
 <br>
