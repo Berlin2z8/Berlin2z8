@@ -2,7 +2,7 @@
 <h1 align="center"><b>Hi , I'm Junior Sanchez </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center" dir="auto">
     <a href="https://readme-typing-svg.herokuapp.com/">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Systems+Engineer;sanchez1q2@gmail.com;Estudiante+de+Ciencias+de+la+Computación;Programador+Competitivo;2x+Finalista+ACPC;Experto+en+Codeforces;División+1+en+Codechef+(5+Estrellas);4+Kyu+en+Atcoder;Siempre+aprendiendo+cosas+nuevas" style="max-width: 100%;">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Systems+Engineer;sanchez1q2@gmail.com;Systems+Engineer+student;Competitive+programmer;2x+Finalista+ACPC;Experto+en+Codeforces;División+1+en+Codechef+(5+Estrellas);4+Kyu+en+Atcoder;Always+learning+new+things" style="max-width: 100%;">
     </a>
 </p>
 <p align="center" dir="auto"> 
