@@ -24,8 +24,8 @@
 - 🔧 Actualmente me encuentro cursando la carrera de **Ingeniería de Sistemas e Informática**.
 - 🔒 Estoy profundamente interesado en el área de **Ciberseguridad** y todo lo relacionado con la protección de sistemas informáticos.
 - 🌱 Estoy aprendiendo sobre diversas herramientas y tecnologías como **Linux**, **Python**, **Redes**, **Criptografía**, **Hacking ético**, y **Seguridad en la nube**.
-- 💬 Me encanta colaborar en proyectos de código abierto y compartir conocimientos con la comunidad.
-- <li>💥 You can visit <a href="https://junior-sc-portafolio.netlify.app/" rel="nofollow">MY WEBSITE</a>.</li>
+- 💬 Me encanta colaborar en proyectos de código abierto y compartir conocimientos con la comunidad
+- 🔧 <li>💥 Puedes visitar <a href="https://junior-sc-portafolio.netlify.app/" rel="nofollow">MY WEBSITE</a>.</li>
 
 <br><br>
 
